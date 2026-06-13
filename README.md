@@ -32,7 +32,7 @@
 ```
   I build things that feel fast, look sharp, and ship.
   Full stack engineer and visual craftsman — from databases to design systems.
-  Founder of Infidevs, a digital agency built on precision and aesthetics.
+  Co-Founder of Infidevs, a digital agency built on precision and aesthetics.
 ```
 
 </div>
