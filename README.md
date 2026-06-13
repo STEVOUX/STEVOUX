@@ -11,7 +11,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=400&size=18&duration=4000&pause=800&color=AAAAAA&center=true&vCenter=true&width=600&height=40&lines=Full+Stack+Engineer;Creative+Technologist;Founder+%40+Infidevs" alt="Tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=400&size=18&duration=4000&pause=800&color=AAAAAA&center=true&vCenter=true&width=600&height=40&lines=Full+Stack+Engineer;Creative+Technologist;Co-Founder+%40+Infidevs" alt="Tagline" />
 
 <br/><br/>
 
