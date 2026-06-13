@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">STEVOUX</h1>
 
-<!--
-**STEVOUX/STEVOUX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header"/>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&color=00E6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Creative+Technologist;UI%2FUX+Focused+Builder;Code+%2B+Design+%2B+Execution"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Profile
+
+```txt
+Name      : STEVOUX  
+Role      : Full Stack Developer  
+Focus     : Scalable Systems + Creative UI  
+Stack     : JS Ecosystem + Multi-language Dev  
