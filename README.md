@@ -29,11 +29,11 @@
 <!--ABOUT-->
 <div align="center">
 
-```
-  I build things that feel fast, look sharp, and ship.
-  Full stack engineer and visual craftsman — from databases to design systems.
-  Co-Founder of Infidevs, a digital agency built on precision and aesthetics.
-```
+<p>
+I build things that feel fast, look sharp, and ship.<br/>
+Full stack engineer and visual craftsman — from databases to design systems.<br/>
+Co-Founder of Infidevs, a digital agency built on precision and aesthetics.
+</p>
 
 </div>
 
